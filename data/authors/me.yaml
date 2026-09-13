@@ -8,13 +8,28 @@ name:
   alternate: 谢东初
   pronunciation: ''
   pronouns: ''
-role: Undergraduate Researcher in Electronic and Computer Engineering
+role: Undergraduate Student & Research Assistant
 bio: |
-  Dongchu Xie is a third-year undergraduate student majoring in Electronic and
-  Computer Engineering at The Chinese University of Hong Kong, Shenzhen
-  (CUHK-Shenzhen). His research interests center on human-centric artificial
-  intelligence, including robust reinforcement learning and controllable,
-  affective speech-language models.
+  I am a fourth-year undergraduate student majoring in Electronic and Computer
+  Engineering at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). I am
+  currently a Research Assistant at the HKUST Scientific AGI Lab, under the
+  supervision of [Professor Zaixi Zhang](https://zaixizhang.github.io/). Prior
+  to this, I worked as a research intern at A*STAR CFAR under the supervision
+  of [Professor Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang)
+  and at the CUHKSZ HLT Lab under the supervision of
+  [Professor Haizhou Li](https://www.colips.org/~eleliha/).
+
+  My research interests center on AI for Science, particularly foundation model
+  pre-training across multi-scale biological and material tokens. I am also
+  interested in robust reinforcement learning, world models, and computational
+  neuroscience.
+
+  I enjoy taking on new challenges in AI4S. It allows me to learn, grow, and
+  enhance my research abilities. I also love working with different researchers
+  to spark creativity and new perspectives.
+
+  If you find my research intriguing or if it fits your project's needs, please
+  feel free to reach out to me at [dongchuxie@cuhk.edu.cn](mailto:dongchuxie@cuhk.edu.cn).
 
 affiliations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -22,47 +37,100 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:dongchuxie@link.cuhk.edu.cn
+    url: mailto:dongchuxie@cuhk.edu.cn
     label: Email
   - icon: brands/github
     url: https://github.com/dongchuxie8-source
     label: GitHub
 
 interests:
-  - Human-Centric Artificial Intelligence
-  - Robust Reinforcement Learning
-  - Speech-Language Models
-  - Affective Computing
+  - AI4S
+  - Pre-Training
+  - Robust RL
+  - Computational Neuroscience
 
 education:
   - degree: BEng in Electronic and Computer Engineering
     institution: The Chinese University of Hong Kong, Shenzhen
-    summary: |
-      Third-year undergraduate student; selected as a potential undergraduate
-      doctoral candidate at CUHK-Shenzhen.
+    summary: Fourth-year undergraduate student.
 
 experience:
-  - role: Part-time Research Assistant
+  - role: Junior Research Assistant (Full-time)
+    org: HKUST Scientific AGI Lab, Department of Chemical and Biological Engineering
+    start: 2026-09-14
+    summary: |
+      Conducting AI for Science research and training foundation models for
+      science. Designing and implementing continued pre-training, acquiring and
+      processing multimodal molecular, protein, material, RNA, and DNA data, and
+      developing tokenization methods for each modality. Supervised by
+      [Professor Zaixi Zhang](https://zaixizhang.github.io/).
+  - role: Research Intern (Part-time)
     org: A*STAR Centre for Frontier AI Research (CFAR), Singapore
-    start: 2025-11-01
-    summary: Supervised by Prof. Ivor Tsang; research on robust reinforcement learning.
-  - role: Summer Research Student
-    org: Technical University of Dortmund, Germany
-    start: 2025-05-01
-    summary: Participated as a CUHK-Shenzhen nominated student.
-  - role: Part-time Research Assistant
-    org: Society Hub, HKUST(GZ)
-    start: 2025-04-01
-    summary: Supervised by Prof. Na Jiang.
-  - role: Research Assistant
-    org: Human Language Technology Lab, CUHK-Shenzhen
+    start: 2025-11-15
+    end: 2026-07-31
+    summary: |
+      Worked on two projects under the supervision of
+      [Professor Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang):
+
+      - **Domain-Explained Residuals (submitted to AAAI 2027):** Designed robust
+        offline-to-online reinforcement learning algorithms for dynamics shifts
+        and severe data corruption.
+      - **HSSR-LM (submitted to AAAI 2027):** Developed bidirectional translation
+        between porous crystal structures and natural language, proposed the
+        Hierarchical Structure Sequence Representation, and curated a
+        multi-granularity dataset of 8,000 samples.
+  - role: Research Training Student (Full-time)
+    org: TU Dortmund University, Germany
+    start: 2025-05-31
+    end: 2025-07-31
+    summary: |
+      Completed a Chemical Engineering research project on optimization-based
+      control of a continuous stirred-tank reactor. Developed, tested, and
+      analyzed a neural-network approximate model predictive controller under
+      simulated operational constraints, producing a functioning prototype and
+      presenting the final results.
+  - role: Research Intern (Part-time)
+    org: Urban Governance and Design Thrust, HKUST(GZ)
+    start: 2025-04-15
+    end: 2025-08-15
+    summary: |
+      Synthesized literature on computational sociology and urban governance,
+      cleaned and integrated multi-source datasets, and coauthored the manuscript.
+  - role: Research Intern (Part-time)
+    org: Human Language Technology Lab, CUHKSZ
     start: 2025-01-01
-    summary: Supervised by Prof. Haizhou Li; research on controllable and affective speech-language models.
+    end: 2026-01-31
+    summary: |
+      Worked under the supervision of
+      [Professor Haizhou Li](https://www.colips.org/~eleliha/) on two papers:
+
+      - **Hanfu-Bench (EMNLP 2025):** Co-developed a multimodal cultural-evolution
+        benchmark with 1,192 expert-annotated images spanning five dynasties.
+      - **Emo-LiPO (IJCAI 2026):** Proposed listwise preference optimization for
+        fine-grained emotion-intensity control in TTS and constructed ESD-plus.
 
 awards:
-  - title: Shaw Spirit Award
+  - title: Honorable Mention, 2026 Mathematical Contest in Modeling
+    awarder: The Consortium for Mathematics and its Applications (COMAP), United States
+    date: "2026-05-01"
+    summary: International competition award conferred by COMAP for solving and analyzing a complex real-world modeling problem as a CUHKSZ team within 96 hours; awarded by competition.
+  - title: Undergraduate Research Award
     awarder: The Chinese University of Hong Kong, Shenzhen
-    date: "2024-01-01"
-  - title: First Prize, Provincial Mathematics Competition
-    awarder: Provincial Mathematics Competition
-    date: "2024-01-01"
+    date: "2026-04-20"
+    summary: Intra-school award granted on merit by the Undergraduate Research Awards Selection Committee in recognition of research potential and to support a proposed project, with a renewable RMB 1,000 monthly stipend from April to June 2026. Officially issued on April 20, 2026, by Associate Vice President Prof. Xiaoqiang Cai.
+  - title: Dean's List
+    awarder: School of Science and Engineering, The Chinese University of Hong Kong, Shenzhen
+    date: "2025-05-01"
+    summary: Intra-school award granted on merit for overall academic excellence during the 2024–25 academic year.
+  - title: Shaw Spirit Award
+    awarder: Shaw College, The Chinese University of Hong Kong, Shenzhen
+    date: "2024-11-01"
+    summary: Intra-school award granted on merit for academic performance, student leadership, community engagement, and contributions to college cultural development in AY 2023–24, embodying Shaw College's motto, “Learning and Virtue.”
+  - title: Shandong Provincial Outstanding Student Cadre of Senior High School
+    awarder: Department of Education of Shandong Province
+    date: "2023-04-01"
+    summary: The highest provincial student-leadership honor, granted on merit after multi-tiered evaluation and public review for exemplary leadership, academic excellence, and service at Heze No. 1 High School (Certificate No. 2023PSG01641; Official Notice Lu Jiao Ji Han [2022] No. 97).
+  - title: Shandong Provincial Outstanding High School Student
+    awarder: Department of Education of Shandong Province
+    date: "2021-05-01"
+    summary: The highest provincial honor for high-school students, granted on merit for the 2020 academic year in recognition of exceptional academic performance, moral character, and overall excellence (Document No. Lu Jiao Ji Han [2021] No. 6).

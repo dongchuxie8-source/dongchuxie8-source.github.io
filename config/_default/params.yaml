@@ -19,9 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Undergraduate Researcher at CUHK-Shenzhen"
+    tagline: "Undergraduate Student & Research Assistant"
     # Site meta description for search engines and social sharing
-    description: "Academic website of Dongchu Xie, an undergraduate researcher at CUHK-Shenzhen studying robust reinforcement learning and speech-language models."
+    description: "Academic website of Dongchu Xie, an undergraduate student and research assistant studying AI for Science, foundation model pre-training, robust reinforcement learning, and computational neuroscience."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)
@@ -146,7 +146,7 @@ hugoblox:
         - /
       disallow: []
       note: "Public academic profile and publication information for Dongchu Xie."
-      contact: "dongchuxie@link.cuhk.edu.cn"
+      contact: "dongchuxie@cuhk.edu.cn"
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
