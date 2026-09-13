@@ -1,0 +1,68 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dongchu Xie
+  given: Dongchu
+  family: Xie
+  alternate: 谢东初
+  pronunciation: ''
+  pronouns: ''
+role: Undergraduate Researcher in Electronic and Computer Engineering
+bio: |
+  Dongchu Xie is a third-year undergraduate student majoring in Electronic and
+  Computer Engineering at The Chinese University of Hong Kong, Shenzhen
+  (CUHK-Shenzhen). His research interests center on human-centric artificial
+  intelligence, including robust reinforcement learning and controllable,
+  affective speech-language models.
+
+affiliations:
+  - name: The Chinese University of Hong Kong, Shenzhen
+    url: https://www.cuhk.edu.cn/en
+
+links:
+  - icon: at-symbol
+    url: mailto:dongchuxie@link.cuhk.edu.cn
+    label: Email
+  - icon: brands/github
+    url: https://github.com/dongchuxie8-source
+    label: GitHub
+
+interests:
+  - Human-Centric Artificial Intelligence
+  - Robust Reinforcement Learning
+  - Speech-Language Models
+  - Affective Computing
+
+education:
+  - degree: BEng in Electronic and Computer Engineering
+    institution: The Chinese University of Hong Kong, Shenzhen
+    summary: |
+      Third-year undergraduate student; selected as a potential undergraduate
+      doctoral candidate at CUHK-Shenzhen.
+
+experience:
+  - role: Part-time Research Assistant
+    org: A*STAR Centre for Frontier AI Research (CFAR), Singapore
+    start: 2025-11-01
+    summary: Supervised by Prof. Ivor Tsang; research on robust reinforcement learning.
+  - role: Summer Research Student
+    org: Technical University of Dortmund, Germany
+    start: 2025-05-01
+    summary: Participated as a CUHK-Shenzhen nominated student.
+  - role: Part-time Research Assistant
+    org: Society Hub, HKUST(GZ)
+    start: 2025-04-01
+    summary: Supervised by Prof. Na Jiang.
+  - role: Research Assistant
+    org: Human Language Technology Lab, CUHK-Shenzhen
+    start: 2025-01-01
+    summary: Supervised by Prof. Haizhou Li; research on controllable and affective speech-language models.
+
+awards:
+  - title: Shaw Spirit Award
+    awarder: The Chinese University of Hong Kong, Shenzhen
+    date: "2024-01-01"
+  - title: First Prize, Provincial Mathematics Competition
+    awarder: Provincial Mathematics Competition
+    date: "2024-01-01"

@@ -1,0 +1,13 @@
+main:
+  - name: Bio
+    url: /
+    weight: 10
+  - name: Publications
+    url: /#papers
+    weight: 20
+  - name: News
+    url: /#news
+    weight: 30
+  - name: Experience
+    url: /experience/
+    weight: 40
