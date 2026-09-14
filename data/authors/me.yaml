@@ -29,7 +29,8 @@ bio: |
   to spark creativity and new perspectives.
 
   If you find my research intriguing or if it fits your project's needs, please
-  feel free to reach out to me at [dongchuxie@cuhk.edu.cn](mailto:dongchuxie@cuhk.edu.cn).
+  feel free to reach out to me at [kedcxie@ust.hk](mailto:kedcxie@ust.hk) (HKUST)
+  or [dongchuxie@cuhk.edu.cn](mailto:dongchuxie@cuhk.edu.cn) (CUHKSZ).
 
 affiliations:
   - name: The Chinese University of Hong Kong, Shenzhen
@@ -37,8 +38,11 @@ affiliations:
 
 links:
   - icon: at-symbol
+    url: mailto:kedcxie@ust.hk
+    label: HKUST Email
+  - icon: at-symbol
     url: mailto:dongchuxie@cuhk.edu.cn
-    label: Email
+    label: CUHKSZ Email
   - icon: brands/github
     url: https://github.com/dongchuxie8-source
     label: GitHub
