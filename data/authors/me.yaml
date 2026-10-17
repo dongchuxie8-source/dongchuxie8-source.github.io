@@ -13,16 +13,18 @@ bio: |
   I am a fourth-year undergraduate student majoring in Electronic and Computer
   Engineering at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). I am
   currently a Research Assistant at the HKUST Scientific AGI Lab, under the
-  supervision of [Professor Zaixi Zhang](https://zaixizhang.github.io/). Prior
+  supervision of [Professor Zaixi Zhang](https://zaixizhang.github.io/). I am
+  also currently an intern at Scinetics, where I work on training multimodal
+  science models and tokenization for different scientific modalities. Prior
   to this, I worked as a research intern at A*STAR CFAR under the supervision
   of [Professor Ivor Tsang](https://www.a-star.edu.sg/cfar/about-cfar/management/prof-ivor-tsang)
   and at the CUHKSZ HLT Lab under the supervision of
   [Professor Haizhou Li](https://www.colips.org/~eleliha/).
 
-  My research interests center on AI for Science, particularly foundation model
-  pre-training across multi-scale biological and material tokens. I am also
-  interested in robust reinforcement learning, world models, and computational
-  neuroscience.
+  My research interests center on AI for Science, particularly multimodal
+  science models and tokenization for different scientific modalities. I am
+  also interested in robust reinforcement learning, world models, and
+  computational neuroscience.
 
   I enjoy taking on new challenges in AI4S. It allows me to learn, grow, and
   enhance my research abilities. I also love working with different researchers
@@ -49,7 +51,7 @@ links:
 
 interests:
   - AI4S
-  - Pre-Training
+  - Multimodal Science Models
   - Robust RL
   - Computational Neuroscience
 

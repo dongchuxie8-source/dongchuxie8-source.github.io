@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Undergraduate Student & Research Assistant"
     # Site meta description for search engines and social sharing
-    description: "Academic website of Dongchu Xie, an undergraduate student and research assistant studying AI for Science, foundation model pre-training, robust reinforcement learning, and computational neuroscience."
+    description: "Academic website of Dongchu Xie, an undergraduate student and research assistant studying AI for Science, multimodal science models, tokenization for different scientific modalities, robust reinforcement learning, and computational neuroscience."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)

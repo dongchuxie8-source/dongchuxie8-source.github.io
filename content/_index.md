@@ -1,6 +1,6 @@
 ---
 title: ''
-summary: 'Dongchu Xie is an undergraduate student and research assistant working on AI for Science, foundation model pre-training, robust reinforcement learning, and computational neuroscience.'
+summary: 'Dongchu Xie is an undergraduate student and research assistant working on AI for Science, multimodal science models, tokenization for different scientific modalities, robust reinforcement learning, and computational neuroscience.'
 type: landing
 
 sections:
@@ -41,6 +41,7 @@ sections:
     content:
       title: News
       text: |-
+        - **[2026.10]** Joined Scinetics as an intern.
         - **[2026.09]** Joined the HKUST Scientific AGI Lab as a Junior Research Assistant, supervised by [Prof. Zaixi Zhang](https://zaixizhang.github.io/).
         - **[2026.05]** Our paper *Emo-LiPO* was accepted by IJCAI 2026.
         - **[2026.05]** Received an Honorable Mention in the 2026 Mathematical Contest in Modeling.
